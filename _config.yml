@@ -1,11 +1,9 @@
 ### Site Settings ###
-title               : Johann Hamel-Akré
+title               : Yejin's Portfolio
 description         : >-
-                      Senior Data Scientist, 
-                      curious at heart, analytic by design.
-                      I love nature, including human nature :heart:
+                      테스트!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : johann-ha/johann-ha.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : yejin-client/yejin-client.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -25,17 +23,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Johann Hamel-Akré
-  image             : docs/assets/images/johann_headshot.jpg
+  name              : An Yejin
+  image             : https://i.pinimg.com/originals/32/11/f4/3211f4c012a7e420b5f56ef7a0f08ae8.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : johann.akre@gmail.com
+  email             : yj.osoq@gmail.com
 #  facebook          : your_username
-  github            : johann-ha
-  gitlab            : johann_ha
+  github            : yj59
+#  gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : johann-hamel-akre
+#  linkedin          : johann-hamel-akre
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
