@@ -1,17 +1,29 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: ArtIAMAS Software Engineer, College Park
+  from: July 2023
+  to:
+  description: Developing, Enhancing, Testing and Maintaining, software used to control and to simulate autonomous systems.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Graduate Research Assistant, Simulation-based System Design Lab, College Park
+  from: Nov 2021
+  to: May 2023
+  description: Employed scenario descriptive language for Unity simulator to probabilistically generate scenarios for rapid operational development and testing. Implemented features to evaluate the simulator’s capabilities and limitations in diverse situations and conditions.
+
+- title: Student, University of Maryland, College Park
+  from: Aug 2021
+  to: May 2023
+  description: Master of Science in Systems Engineering, specializing in Robotics.
+
+- title: Research Associate, Surgical and Assistive Robotics Lab, IIIT-B
+  from: Oct 2020
+  to: July 2021
+  description: Analyzed human motion capture with Microsoft Kinect V2 and Azure Kinect to achieve efficient motion capture. Managed a team to develop a dual-arm robotic system through depth cameras for biomimetic control.
+
+- title: Research Intern, Mercedes-Benz Research & Development India, Bangalore, India
+  from: May 2018
+  to: July 2018
+  description: Created a reinforcement learning (RL) based HVAC optimization system to regulate the temperature of an electric vehicle minimizing energy consumption.
+
+- title: Student, International Institute of Information Technology Bangalore, India
+  from: Aug 2015
+  to: Sep 2020
+  description: Integrated Master of Technology, Electronics and Communication Engineering

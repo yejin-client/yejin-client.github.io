@@ -1,7 +1,17 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: LaTeX
+#   percentage: 90
+#   color: success
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Blender Game Engine
+#   percentage: 75
+#   color: success
+
+- name: Character Rigging and Animation
+#   percentage: 65
+#   color: success
+
+- name: OpenGL
+#   percentage: 75
+#   color: success
+ 
+
