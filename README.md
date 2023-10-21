@@ -1,5 +1,4 @@
-## My website
+# My Personal Website
+My personal website with data science projects portfolio and tech blog.
 
-It is a beautiful and simple portfolio which uses a Jekyll [theme](https://youssefraafatnasry.github.io/portfolYOU/) that works with GitHub Pages.
-
-The link for the sample portfolio can be found [here](https://youssefraafatnasry.github.io/portfolyou/).
+No real information at the moment.

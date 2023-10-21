@@ -1,11 +1,12 @@
 ### Site Settings ###
-title               : Vishal Gattani
-description         : >-                               # >- means to ignore newlines until "url:"
-                      "I use tabs over spaces."
-
+title               : Johann Hamel-Akré
+description         : >-
+                      Senior Data Scientist, 
+                      curious at heart, analytic by design.
+                      I love nature, including human nature :heart:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : vishalgattani/vishalgattani.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-# remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
+repository          : johann-ha/johann-ha.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -20,23 +21,22 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
   - documentation/partials/**                           # For Documentation Only
-  - documentation/docs.md
-  - documentation/elements.html
-  # - pages/blog.html
+
 
 ### Author Info ###
 author:
-  name              : Vishal Gattani
-  image             : "/images/southpark.jpg?raw=true"
-# behance           : your_username
+  name              : Johann Hamel-Akré
+  image             : docs/assets/images/johann_headshot.jpg
+#  behance           : your_username
 # dribbble          : your_username
-  email             : vishalgattani09@gmail.com
-# facebook          : your_username
-  github            : vishalgattani
-# gitlab            : your_username
-  instagram         : vishalgattani
-  linkedin          :
-# medium            : your_username
+  email             : johann.akre@gmail.com
+#  facebook          : your_username
+  github            : johann-ha
+  gitlab            : johann_ha
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : johann-hamel-akre
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
@@ -45,7 +45,7 @@ author:
 # twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
-
+# keybase           : your_username
 
 
 ### Posts ###
@@ -57,9 +57,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  research:
-    output: true
-    permalink: /research/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
@@ -79,8 +76,8 @@ analytics:
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee:
-  enabled: true
-  username: vishalgattani
+  enabled: false
+  username: your_username
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
@@ -91,11 +88,6 @@ defaults:
   - scope:
       path: ""
       type: "projects"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "research"
     values:
       layout: "page"
   - scope:                                              # For Documentation Only
