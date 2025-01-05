@@ -1,9 +1,14 @@
+@font-face {
+  font-family: 'scdream-3';
+  src: url('/assets/ttf/SCDream3.otf') format('truetype');
+}
+
 html {
   padding-left: calc(100vw - 100%);
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: 'scdream-3', "Poppins", sans-serif;
 }
 
 .badge {
