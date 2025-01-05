@@ -1,7 +1,7 @@
 ---
 name: Kit AR Application
 tools: [Unity, C#]
-image: _projects\img\p-kitar.jpg
+image: https://raw.githubusercontent.com/yejin-client/yejin-client.github.io/refs/heads/main/_projects/img/p-kitar.jpg
 description: Unity 엔진을 사용한 금오공과대학교 탐방 AR 어플리케이션
 ---
 
@@ -19,7 +19,7 @@ description: Unity 엔진을 사용한 금오공과대학교 탐방 AR 어플리
 
 <br/>
 
-## 시연 영상
+## 🌱 시연 영상
 
 [![[Unity5] 금오공과대학교 AR](https://user-images.githubusercontent.com/93882395/212685850-2a59688e-5e1c-44d1-a614-0a7375df6117.png)](https://www.youtube.com/watch?v=fs6GoU8HAss)
 
@@ -27,67 +27,101 @@ description: Unity 엔진을 사용한 금오공과대학교 탐방 AR 어플리
 
 <br/>
 
-## 소개
+---
+
+<br/>
+
+
+## 🌱 소개
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/93882395/212694065-f59d8669-f75e-44b7-912d-aed6bc57cdd3.png" alt="image" style="zoom: 50%;" />
 
-사용자의 현실 위치에 따라 3D 맵과 상호작용할 수 있는 어플리케이션입니다! 교내 건물에 다가가 AR 화면으로 전환하면 각 건물에 해당하는 설명과 재미를 주는 여러 이벤트를 발견할 수 있습니다.😊
+사용자의 현실 위치에 따라 3D 맵과 상호작용할 수 있는 어플리케이션입니다.
+
+교내 건물에 다가가 AR 화면으로 전환하면 각 건물에 해당하는 설명과 재미를 주는 여러 이벤트를 발견할 수 있습니다.😊
 
 <br/>
 
-## 주요 기능
-
-1.   **교내 건물 안내**
-
-     <img src="https://user-images.githubusercontent.com/93882395/212695766-8dcf2f3a-f0f4-47b7-a601-87be6a297a7d.gif" alt="프레젠테이션2" width="20%" height="20%" /> 
-
-     교내 건물에 대한 설명과 관련 활동을 안내해 아직 학교가 익숙하지 않은 학생들의 적응을 돕습니다.
-
-     <br/>
-
-2.   **미니 게임**
-
-
-<p><img src="https://github.com/user-attachments/assets/45d08d2c-3381-47a2-b216-8a31279d44e6" alt="mini-game-eg"></p>
-
-
-     교내 부지마다 간단한 미니 게임을 제공합니다.🎮
-
-     1.   **과제물 찾기 AR**: 제한 시간 내 하트 모양의 아이콘을 찾아 과제물 수집
-
-     2.   **개구리와 리듬 게임**: 개구리와 대화 후 노래에 맞춰 리듬게임 진행
-
-     3.   **안아줘요**: 화면의 화살표를 눌러 플레이어를 따라다니는 적 회피
-
-     4.   **드론 슈팅 AR**: 발사체를 만들어 제한 시간 내 AR 화면에 생성되는 드론 제거
-
-     <br/>
-
-1.   **돌발 이벤트: 삼족오 출몰**
-
-     <img src="https://user-images.githubusercontent.com/93882395/212701861-2e141edc-bd91-4bad-8842-c412242718fa.png" alt="image" /> 
-
-     학교 이야깃거리와 어울리는 테마의 금오공대 마스코트가 돌발 출몰하는 이벤트입니다.
-
-     <br/>
-
-2.   **교내 이미지 트래킹**
-
-     프로젝트 담당 교수님의 연구실 호실판을 AR 카메라로 촬영하면 연구실 정보와 홈페이지가 나타납니다.
+---
 
 <br/>
 
-## 사용 설명  
+
+## 🌱 주요 기능
+
+<br/>
+
+#### 1. 교내 건물 안내
+
+
+<img src="https://user-images.githubusercontent.com/93882395/212695766-8dcf2f3a-f0f4-47b7-a601-87be6a297a7d.gif" alt="프레젠테이션2" width="20%" height="20%" /> 
+
+교내 건물에 대한 설명과 관련 활동을 안내해 아직 학교가 익숙하지 않은 학생들의 적응을 돕습니다.
+
+<br/>
+
+#### 2. 미니 게임
+
+<br/>
+
+<img src="https://ifh.cc/g/c875vb.gif" alt="mini-game-eg" /> 
+
+<br/>
+
+
+학교 구역마다 간단한 미니 게임을 제공합니다.🎮
+
+
+*   **과제물 찾기 AR**: 제한 시간 내 하트 모양의 아이콘을 찾아 과제물 수집
+
+*   **개구리와 리듬 게임**: 개구리와 대화 후 노래에 맞춰 리듬게임 진행
+
+*   **안아줘요**: 화면의 화살표를 눌러 플레이어를 따라다니는 적 회피
+
+*   **드론 슈팅 AR**: 발사체를 만들어 제한 시간 내 AR 화면에 생성되는 드론 제거
+
+
+<br/>
+
+
+#### 3. 돌발 이벤트: 삼족오 출몰
+
+<img src="https://user-images.githubusercontent.com/93882395/212701861-2e141edc-bd91-4bad-8842-c412242718fa.png" alt="image" /> 
+
+학교 이야깃거리와 어울리는 테마의 금오공대 마스코트가 돌발 출몰하는 이벤트입니다.
+
+<br/>
+
+#### 4. 교내 이미지 트래킹
+
+프로젝트 담당 교수님의 연구실 호실판을 AR 카메라로 촬영하면 연구실 정보와 홈페이지가 나타납니다.
+
+<br/>
+
+---
+
+<br/>
+
+## 🌱 사용 설명  
+
+<br/>
 
 1.   지도 화면에서 사용자와 이벤트 위치 확인 가능
+
      1.   이벤트는 `꽃` 아이콘으로 표시
+
      2.   특정 위치에서 `삼족오 잡기` 돌발 이벤트 발생
 
 2.   `꽃` 아이콘 근처에서 AR 화면으로 전환 시 사용자 상호작용 이벤트 생성
+
      1.   **노란색 꽃**: 건물 정보 안내. 말풍선을 터치하면 다음 정보 제공
+
      2.   **주황색 꽃**: 미니 게임 시작
 
-2.   게임 버튼 설명
+
+3.   게임 버튼 설명
 
      1.  `AR`:  AR화면으로 전환
 
@@ -95,21 +129,33 @@ description: Unity 엔진을 사용한 금오공과대학교 탐방 AR 어플리
 
             1. `github`: 개발자 github 주소 이동
 
-          2.   `Kit`: 금오공대 학교 홈페이지로 이동
+          1.   `Kit`: 금오공대 학교 홈페이지로 이동
 
-          3.   `X`: 어플리케이션 종료
+          2.   `X`: 어플리케이션 종료
 
-     2.   `🥚`: 수집한 삼족오 종류 확인
-
-<br/>
-
-## 오픈소스 활용
-
-<img src="https://user-images.githubusercontent.com/93882395/212704071-d7fca7e8-202c-4d07-8dff-ef49f0123dcb.png" alt="image" style="zoom: 30%;" /> 
+     3.   `🥚`: 수집한 삼족오 종류 확인
 
 <br/>
 
-## 역할 분담
+---
+
+<br/>
+
+## 🌱 오픈소스 활용
+
+<br/>
+
+
+<img src="https://user-images.githubusercontent.com/93882395/212704071-d7fca7e8-202c-4d07-8dff-ef49f0123dcb.png" alt="image" /> 
+
+
+<br/>
+
+---
+
+<br/>
+
+## 🌱 역할 분담
 
 **윤정민 [[KitYoonJeongmin](https://github.com/KitYoonJeongmin)]**
 
