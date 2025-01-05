@@ -1,8 +1,13 @@
 ---
-title: How to undo your git failure?
+title: AI 소사이어티
 tags: [External Post, Git]
 style: fill
 color: warning
 description: Using `git reflog` and `git reset` to save your code.
-external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
 ---
+
+쓸 내용
+* 데이콘 경진대회풀이
+* 논문 분석
+
+* 글씨체 생성기 만들이 위해서 ZI2ZI 분석
