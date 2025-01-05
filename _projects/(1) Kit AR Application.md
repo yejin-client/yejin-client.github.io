@@ -1,7 +1,7 @@
 ---
 name: Kit AR Application
 tools: [Unity, C#]
-image: https://raw.githubusercontent.com/yejin-client/yejin-client.github.io/refs/heads/main/_projects/img/p-kitar.jpg
+image: https://raw.githubusercontent.com/yejin-client/yejin-client.github.io/refs/heads/main/_projects/img/p-1-kitar.jpg
 description: Unity 엔진을 사용한 금오공과대학교 탐방 AR 어플리케이션
 ---
 
