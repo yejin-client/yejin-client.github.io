@@ -11,11 +11,19 @@ description: Unity 엔진을 사용한 금오공과대학교 탐방 AR 어플리
 
 # 💙Kit AR Application
 
+
+<br/>
+
+
 >   **어플리케이션 필수 요구사항**
 >
 >   *   Android 7.0'Nougat' Version 이상
 >   *   GPS 연결
 >   *   디바이스 네트워크 연결
+
+<br/>
+
+---
 
 <br/>
 
