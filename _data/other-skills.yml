@@ -1,7 +1,0 @@
-- name: Unreal Engine
-  percentage: 80
-  color: info
-
-- name: Unity
-  percentage: 50
-  color: success
