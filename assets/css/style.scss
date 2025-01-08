@@ -27,9 +27,15 @@ html, body {
     padding:0;
 }
 
+@font-face {
+    font-family: 'SCDream-3';
+    src: url('/assets/custom/fonts/SCDream3.otf') format('truetype');
+    unicode-range: U+1100-11FF, U+3130-318F, U+A960-A97F, U+AC00-D7A3, U+D7B0-D7FF;
+}
+
 body { 
     margin:0 auto;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'SCDream-3', 'Poppins', sans-serif;
     background: var(--color-background);
     
     &:before{ display: none; }
