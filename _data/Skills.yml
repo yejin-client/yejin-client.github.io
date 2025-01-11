@@ -1,24 +1,48 @@
-subject: Skills
-listing-order: 5
+subject: S k i l l s
+listing-order: 2
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
-    "
-  - title: Frameworks
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
-    "
+  - title: Game Engine
+    name-1: "**Unreal**"
+    description-1:
+      - C++과 Blueprint를 활용해 프로젝트를 제작했습니다.
+      - GAS를 활용해 간단한 RPG 게임의 Ability와 Attribute를 구현할 수 있습니다.
+      - 캐릭터의 전투 시스템 및 Perception과 Behavior tree를 활용해 AI를 구현합합니다.
+    name-2: "**Unity**"
+    description-2:
+      - 간단한 RPG 게임과 AR 프로젝트를 제작할 수 있습니다.
+
+  - title: VCS
+    name-1: "**Perforce**"
+    description-1:
+      - Unreal 4인 프로젝트를 관리했습니다.
+      - UE5와 Perforce를 연동한 후, 협업 시 Checkout을 통해 개발 영역을 분리해 협업을 진행했습니다.
+    name-2: "**Git/Github**"
+    description-2:
+      - Unity 프로젝트의 개별 기능마다 branch를 나누어 4인 협업을 관리했습니다.
+    name-3: "**Gitkraken**"
+    description-3: 
+      - Github를 활용한 프로젝트 협업 도중, merge conflict를 빠르게 해결하기 위해 Gitkraken을 사용했습니다.
+      - 스크럼 회의에서 충돌 코드를 GUI로 비교해본 후, 더 나은 코드를 commit했습니다.
+  
+  - title: Languages
+    name-1: "**C**"
+    description-1: 
+      - OpenGL을 활용해 간단한 그리기(Bezier spline, BST, Mandelbrot 등)를 할 수 있습니다.
+    name-2: "**C++**"
+    description-2: 
+     - 프로젝트의 더 나은 유지보수와 협업을 위해 OOP를 활용한 프로그램을 구현하고자 노력합니다.
+    name-3: "**Python**"
+    description-3: 
+      - Python을 활용해 간단한 딥러닝 모델을 구축하고, R-CNN과 GAN 모델을 이해할 수 있습니다.
+  
+  - title: ETC.
+    name-1: "**Tool**"
+    description-1:
+      - Rider
+      - VS/VS code
+      - Google Colaboratory
+      - "Blender: *간단한 3D 캐릭터 제작 및 리깅*"
+    name-2: "**Collaboration**"
+    description-2: 
+      - Notion, Discord
