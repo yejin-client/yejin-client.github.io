@@ -2,8 +2,9 @@ subject: P r o j  e c t s
 listing-order: 1
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "[**AR을 활용한 학교 탐방 어플리케이션**](https://github.com/yj59/KitTourAR) *[(시연 영상)](https://www.youtube.com/watch?v=fs6GoU8HAss)*"
+  - title: "[**AR을 활용한 학교 탐방 어플리케이션**](https://github.com/yj59/KitTourAR)"
     img: <img src="https://user-images.githubusercontent.com/93882395/212694065-f59d8669-f75e-44b7-912d-aed6bc57cdd3.png" alt="img" style="zoom:50%;" />
+    demo: "*[시연 영상](https://www.youtube.com/watch?v=fs6GoU8HAss)*"
     subheading-1: "**기술 스택** `C#` `Unity` `Firebase` `Git` `Gitkraken` `Visual Studio`"
     subheading-2: "**프로젝트 소개**"
     description-2: "'KIT Tour'는 금오공과대학교를 탐방하며 증강현실(AR)을 활용해 학교에 대한 이해를 돕는 어플리케이션입니다. 지도 화면을 통해 사용자의 현재 위치를 확인할 수 있으며, 카메라 모드로 전환하면 해당 위치와 관련된 교내 정보를 제공합니다. 캠퍼스를 이동하며 즐길 수 있는 미니 게임과 위치 기반으로 발생하는 돌발 이벤트를 통해 재미를 더했습니다."
@@ -15,8 +16,9 @@ contents:
       - Firebase를 구축하여 위치에 따른 장소명과 이벤트 진행도를 전송하고, 경과에 맞는 데이터 문자열을 받아 교내 정보 UI 활성화
     date: 22.10.3 - 22.12.2 (3개월)
 
-  - title: "[**UE5 로그라이크 게임**](https://github.com/yj59/crusader-s-crypt) *[(시연 영상)](https://www.youtube.com/watch?v=RDuwTjGHj1A)*"
+  - title: "[**UE5 로그라이크 게임**](https://github.com/yj59/crusader-s-crypt)"
     img: <img src="https://github.com/user-attachments/assets/8e88f93b-165a-40c4-a2a4-454214b37f23" alt="image" style="zoom:67%;" />
+    demo: "*[시연 영상](https://www.youtube.com/watch?v=RDuwTjGHj1A)*"
     subheading-1: "**기술 스택** `C++` `Unreal` `Perforce` `Git` `Rider`"
     subheading-2: "**프로젝트 소개**"
     description-2: "'Crusader's Crypt'는 Unreal Engine 5.1로 개발된 로그라이크(roguelike) 장르의 게임입니다. 플레이어는 최종 스테이지에 도달하기 위해 현재 상황에 맞게 최적의 보상을 제공하는 스테이지를 선택하거나, 가장 효율적인 경로를 찾아야 합니다. 사망 시 진행 기록이 초기화되지만, 귀속 성장 시스템과 랜덤 요소를 통해 플레이가 지속되면 클리어 가능성이 높아지도록 설계되었습니다."

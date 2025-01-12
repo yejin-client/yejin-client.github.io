@@ -1,7 +1,13 @@
-subject: L i c e n s e
+subject: E T C.
 listing-order: 3
 icon: "/assets/custom/license.svg"
 contents:
   - title: "정보처리기사 *(2024.6.18)*"
+  - title: "한국정보기술학회 2023 하계논문경진대회 *은상*"
+  - title: "금오공대, 안동대 메타버스 기초 경진대회 *은상*"
+  - title: 교내 활동
     description: 
-      - "자격증번호: 24201020831B"
+      - system software Lab 학부연구생
+      - 딥러닝 및 논문 리뷰 스터디 참여
+      - 알고리즘, CS 스터디 운영
+      - C, C++, JS, Python, Unity, IoT 멘토링
