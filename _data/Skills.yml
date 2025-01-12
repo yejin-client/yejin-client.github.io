@@ -31,7 +31,7 @@ contents:
       - OpenGL을 활용해 간단한 그리기(Bezier spline, BST, Mandelbrot 등)를 할 수 있습니다.
     name-2: "**C++**"
     description-2: 
-     - 프로젝트의 더 나은 유지보수와 협업을 위해 OOP를 활용한 프로그램을 구현하고자 노력합니다.
+     - 프로젝트의 유지보수성과 협업 효율을 높이기 위해 객체지향 프로그래밍(OOP)과 디자인 패턴을 활용한 프로그램 구현을 지향합니다
     name-3: "**Python**"
     description-3: 
       - Python을 활용해 간단한 딥러닝 모델을 구축하고, R-CNN과 GAN 모델을 이해할 수 있습니다.
